@@ -1,4 +1,4 @@
-James Daus Work Portfolio:
+# James Daus Work Portfolio
 
 Code from machine-learning stock guessing challenge.
 
