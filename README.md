@@ -1,5 +1,5 @@
 # James Daus Portfolio
-The code supplied here has been taken from the original projects to include only code I wrote.
+The code supplied here has been taken from the original projects to include only code by James Daus.
 
 ML Gauntlet (Python): Functions used in my Reservoir Computing research to construct various ML algorithms, KFold test them, and graphically display the results. Additional hyperparameter testing is done through the tool WeightsAndBiases (www.WandB.com)
 
